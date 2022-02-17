@@ -1,4 +1,4 @@
-Country,CountryCode,Date,Retail & Recreation,Grocery & Pharmacy Stores,Residential,Transit Stations,Parks,Workplaces
+country,country_code,date,retail_recreation,grocery_pharmacy Stores,residential,transit_stations,parks,workplaces
 Sweden,SWE,2020-02-17,-4,-3.333,1.333,-4.333,-10,-4.333
 Sweden,SWE,2020-02-18,-3,-2.5,1.25,-4.25,-4.25,-4.5
 Sweden,SWE,2020-02-19,-1.8,-1.8,1.2,-4,1.8,-4.6
